@@ -1,6 +1,6 @@
 FROM nbeguier/mlbox
 
-RUN pip install jupyter
+RUN pip install jupyter tpot
 
 EXPOSE 8888
 
