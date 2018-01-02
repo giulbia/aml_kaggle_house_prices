@@ -143,3 +143,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Folder cache
+cache/
+
+# Folder joblib created by mlbox
+docker/save/joblib/
